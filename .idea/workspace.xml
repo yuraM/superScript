@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="167f116f-dd68-4a07-b1b5-db84b47f9389" name="Default" comment="" />
+    <ignored path="superScript.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/setup.rb" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1445509704752" ignored="false" />
+    <file path="/script.rb" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1443086946205" ignored="false" />
+    <file path="/tags_list.rb" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1443596965998" ignored="false" />
+    <file path="/Volumes/data/biblica/biblica/international/usNIV/usx/Paratext_export/001GEN.usx" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1436180141255" ignored="false" />
+    <file path="/tbotb.rb" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1439887580725" ignored="false" />
+    <file path="$PROJECT_DIR$/../Indesighn/ind.rb" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1436348691317" ignored="false" />
+    <file path="/ind.rb" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1442487420198" ignored="false" />
+    <file path="/usx_to_html.rb" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1443009511566" ignored="false" />
+    <file path="$PROJECT_DIR$/../USXtoHTML/html/TBOTB/043JHN.html" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1436516385095" ignored="false" />
+    <file path="$PROJECT_DIR$/../USXtoHTML/html/hybrid/066REV.html" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1436437514506" ignored="false" />
+    <file path="/040MAT.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1437733623383" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/0532TH.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438604949814" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/0541TI.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438604949814" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/056TIT.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498314" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/058HEB.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498314" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/057PHM.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498313" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/059JAS.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498313" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/0601PE.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438604949814" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/0552TI.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498313" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/0612PE.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438604949814" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/0643JN.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498313" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/0632JN.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498314" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/065JUD.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498314" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/066REV.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498314" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/0621JN.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498314" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/048GAL.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498313" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/0461CO.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498314" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/050PHP.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438604949814" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/0521TH.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438352442986" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/049EPH.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498313" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/051COL.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498313" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/0472CO.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498314" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/01GEN.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438157655126" ignored="false" />
+    <file path="/standard-style.css" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438169750037" ignored="false" />
+    <file path="/tbotb-style.css" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438169664653" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/007JDG.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438336933145" ignored="false" />
+    <file path="/Volumes/data/biblica/biblica/international/usNIV/sfm/43LUKusNIV11.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438175322046" ignored="false" />
+    <file path="/Volumes/data/biblica/biblica/international/usNIV/sfm/45ACTusNIV11.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438175322046" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/005DEU.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438939551011" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/004NUM.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438939551011" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/002EXO.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438939551011" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/003LEV.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438939551011" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/018JOB.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438597629203" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/006JOS.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438939551011" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/008RUT.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438337817620" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/0091SA.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438337817620" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/0102SA.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438597603812" ignored="false" />
+    <file path="/0102SA.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438337539129" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/0111KI.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438337999811" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/0142CH.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438597629203" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/017EST.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438597603812" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/016NEH.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438597629203" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/015EZR.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438597629203" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/041MRK.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438604949814" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/043JHN.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498313" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/044ACT.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498314" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/040MAT.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438938550635" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/045ROM.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498313" ignored="false" />
+    <file path="/015EZR.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438597378162" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/0131CH.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438598017091" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/0122KI.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438597603812" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/019PSA.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438604472223" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/042LUK.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438769498313" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/020PRO.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438773966256" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/022SNG.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438938954490" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/021ECC.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438938954490" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/030AMO.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438936452652" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/031OBA.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438936452653" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/034NAM.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438936452653" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/028HOS.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438938880042" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/033MIC.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438936452653" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/027DAN.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438938880042" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/029JOL.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438936452653" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/038ZEC.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438938550635" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/037HAG.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438938550635" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/036ZEP.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438938550635" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/026EZK.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438938810345" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/025LAM.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438936452653" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/023ISA.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438937248414" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/024JER.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438939456627" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/032JON.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438936299615" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/035HAB.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438936452653" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/039MAL.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438938550635" ignored="false" />
+    <file path="$PROJECT_DIR$/ind_clasic/001GEN.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1438939710850" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/51PHPtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/52COLtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/59HEBtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/60JAStlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/67REVtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/471COtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/482COtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/642JNtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/66JUDtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/58PHMtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/57TITtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/631JNtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/622PEtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/611PEtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/562TItlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/551TItlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/542THtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/531THtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/653JNtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/41MATtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/42MRKtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/43LUKtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/44JHNtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/45ACTtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/46ROMtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/49GALtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="$USER_HOME$/Downloads/sfm2 2/50EPHtlCCBE15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1440140657303" ignored="false" />
+    <file path="/001GEN.html" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1441189309616" ignored="false" />
+    <file path="/xml-&gt;usx.rb" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1444290816377" ignored="false" />
+    <file path="/new_ind.rb" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1445247342504" ignored="false" />
+    <file path="/58PHMspaNVI15.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1442570521824" ignored="false" />
+    <file path="/001GEN.xml" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1442912165010" ignored="false" />
+    <file path="/01GENspaNJBv0.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1443010526310" ignored="false" />
+    <file path="/nvi.rb" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1445510643059" ignored="false" />
+    <file path="/41MATspaNJBv0.SFM" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1444723246590" ignored="false" />
+    <file path="/USX_to_SFM.rb" changelist="167f116f-dd68-4a07-b1b5-db84b47f9389" time="1445861348320" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="superScript" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="setup.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="36" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="171" selection-end="191" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tags_list.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tags_list.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="50" selection-start="703" selection-end="740" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="USX_to_SFM.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/USX_to_SFM.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="26" selection-start="79" selection-end="79" vertical-scroll-proportion="0.13824885">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="003LEV.SFM" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/to_sfm/003LEV.SFM">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01GENspaNJBv0.SFM" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sfm/01GENspaNJBv0.SFM">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="393" column="46" selection-start="34205" selection-end="34222" vertical-scroll-proportion="-2.3018868">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="001GEN.SFM" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/to_sfm/001GEN.SFM">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="147" column="80" selection-start="11490" selection-end="11490" vertical-scroll-proportion="-7.2222223">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/xml/stand/059JAS.xml" />
+        <option value="$PROJECT_DIR$/xml/stand/065JUD.xml" />
+        <option value="$PROJECT_DIR$/xml/stand/0601PE.xml" />
+        <option value="$PROJECT_DIR$/xml/stand/0612PE.xml" />
+        <option value="$PROJECT_DIR$/xml/stand/0632JN.xml" />
+        <option value="$PROJECT_DIR$/xml/stand/0643JN.xml" />
+        <option value="$PROJECT_DIR$/xml/stand/066REV.xml" />
+        <option value="$PROJECT_DIR$/setup.rb" />
+        <option value="$PROJECT_DIR$/sfm/03LEVspaNJBv0.SFM" />
+        <option value="$PROJECT_DIR$/sfm/04NUMspaNJBv0.SFM" />
+        <option value="$PROJECT_DIR$/sfm/05DEUspaNJBv0.SFM" />
+        <option value="$PROJECT_DIR$/sfm/41MATspaNJBv0.SFM" />
+        <option value="$PROJECT_DIR$/nvi.rb" />
+        <option value="$PROJECT_DIR$/sfm_to_usx.rb" />
+        <option value="$PROJECT_DIR$/to_sfm/001GEN.SFM" />
+        <option value="$PROJECT_DIR$/USX_to_SFM.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1276" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="superScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="superScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="superScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="superScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="superScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="to_sfm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="superScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="superScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sfm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../USXtoHTML/usx_to_html.rb" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sfm" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/xml_j1w" />
+      <recent name="$PROJECT_DIR$/usx" />
+      <recent name="$PROJECT_DIR$/compare" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/sfm" />
+      <recent name="$PROJECT_DIR$/for compare" />
+      <recent name="$PROJECT_DIR$/xml" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Ruby.USX_to_SFM">
+    <configuration default="false" name="setup" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="superScript" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/setup.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="script" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="superScript" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/script.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="xml-&gt;usx" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="superScript" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/xml-&gt;usx.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="new_ind" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="superScript" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/new_ind.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="USX_to_SFM" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="superScript" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/USX_to_SFM.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Ruby.setup" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.script" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.xml-&gt;usx" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.new_ind" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.USX_to_SFM" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Ruby.USX_to_SFM" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.setup" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.xml-&gt;usx" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.new_ind" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.script" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="167f116f-dd68-4a07-b1b5-db84b47f9389" name="Default" comment="" />
+      <created>1435661795466</created>
+      <updated>1435661795466</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1276" height="754" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32796487" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495935" sideWeight="0.6896047" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14146341" sideWeight="0.7010622" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27723578" sideWeight="0.2907489" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2989378" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sfm/04NUMspaNJBv0.SFM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sfm/05DEUspaNJBv0.SFM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sfm/06JOSspaNJBv0.SFM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sfm/07JDGspaNJBv0.SFM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sfm/41MATspaNJBv0.SFM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.06632653">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sfm/46ROMspaNJBv0.SFM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-25.729666">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/super_usx/001GEN.usx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml-&gt;usx.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="751" column="2" selection-start="21274" selection-end="21350" vertical-scroll-proportion="1.2022471">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nvi.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1942" column="25" selection-start="52300" selection-end="52300" vertical-scroll-proportion="0.9170507">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/to_sfm/001GEN.SFM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="147" column="80" selection-start="11490" selection-end="11490" vertical-scroll-proportion="-7.2222223">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sfm/01GENspaNJBv0.SFM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="393" column="46" selection-start="34205" selection-end="34222" vertical-scroll-proportion="-2.3018868">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="171" selection-end="191" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags_list.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="50" selection-start="703" selection-end="740" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="36" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/to_sfm/003LEV.SFM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USX_to_SFM.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="26" selection-start="79" selection-end="79" vertical-scroll-proportion="0.13824885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

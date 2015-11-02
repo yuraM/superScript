@@ -1,0 +1,58 @@
+.toggle,
+.toggler {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 5px;
+}
+
+.toggler {
+  color: slategray;
+}
+
+.toggle {
+  width: 30px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: slategray;
+}
+
+.check {
+  position: absolute;
+  display: block;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  opacity: 0;
+  z-index: 6;
+}
+
+.check:checked ~ .switch {
+  margin-left: 12px;
+}
+
+.switch {
+  position: absolute;
+  display: block;
+  margin: 2px;
+  width: 16px;
+  height: 16px;
+  background-color: white;
+  border-radius: 50%;
+}
+
+main {
+  position: fixed;
+  z-index: 999;
+  left: 20px;
+  bottom: 20px;
+  padding: 10px;
+  background: white;
+  font: 100%/1.5 Helvetica Neue, Helvetica, Arial, sans-serif;
+  
+  -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.25);
+  -moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.25);
+  box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.25);
+}

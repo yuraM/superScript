@@ -1,0 +1,314 @@
+/**********************************************************
+
+Copyright 2015 
+All Rights Reserved 
+
+NOTICE:  You are permitted to use, modify, and 
+distribute this file in accordance with the terms
+of the license agreement accompanying it. 
+
+**********************************************************/
+
+/* Global */
+
+body {
+  max-width: 30.5em;
+  padding: 3em;
+  margin: 0 auto;
+  font-size: 10pt;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  font-family: "Utopia";
+  line-height: 1.15em;
+}
+
+/* Introduction */
+
+.ip,
+.im,
+.imi,
+.imq,
+.iq1,
+.io1,
+.io2,
+.io3,
+.ili1 {
+  font-family: "Optima";
+  font-size: 0.9em;
+  line-height: 1.3em;
+}
+
+.ip {
+  text-align: justify;
+  text-indent: 2em;
+}
+
+.ili1 {
+  text-align: justify;
+  padding-left: 2em;
+}
+
+.imq {
+  text-align: justify;
+  font-style: italic;
+  padding-left: 2em;
+}
+
+.imi {
+  text-align: justify;
+  padding-left: 2em;
+}
+
+.iq1 {
+  font-style: italic;
+  padding-left: 4em;
+  text-indent: -1em;
+}
+
+.io1 {
+  padding-left: 1em;
+}
+
+.io2 {
+  padding-left: 2em;
+}
+
+.io3 {
+  padding-left: 3em;
+}
+
+.imt1,
+.imt2,
+.imte1 {
+  font-family: "Optima";
+  text-transform: uppercase;
+}
+
+.imt1 {
+  text-align: right;
+  font-size: 2.3em;
+  max-width: 9em;
+  margin: 0 auto;
+}
+
+.imt2 {
+  text-align: left;
+  color: grey;
+  font-size: 1.9em;
+  line-height: 0.8em;
+  max-width: 10.9em;
+  margin: 0 auto;
+}
+
+.imte1 {
+  font-size: 1.5em;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: 0.2em;
+  margin: 4.4em 0;
+}
+
+.imte1:before {
+  content: "| ";
+}
+
+.imte1:after {
+  content: " |";
+}
+
+/* Section */
+
+.s4 {
+  font-size: 0.8em;
+  text-align: center;
+  margin: 1.15em auto;
+}
+
+/* Paragraph */
+
+.p {
+  text-align: justify;
+  text-indent: 1.8em;
+}
+
+.pc {
+  text-align: center;
+  font-variant: small-caps;
+}
+
+.m {
+  text-align: justify;
+}
+
+.mi {
+  text-align: justify;
+  padding-left: 0.9em;
+}
+
+.pi1 {
+  text-align: justify;
+  text-indent: 0.9em;
+  padding-left: 0.9em;
+}
+
+.pm {
+  text-align: justify;
+  text-indent: 0.9em;
+  padding-left: 0.9em;
+}
+
+.pmo,
+.pmc {
+  text-align: justify;
+  padding-left: 0.9em;
+}
+
+.li {
+  text-align: justify;
+  text-indent: -0.9em;
+  padding-left: 0.9em;
+}
+
+/* Poetry */
+
+.q1 {
+  padding-top: 0.2em;
+  padding-left: 3.5em;
+}
+
+.q2 {
+  padding-left: 3.5em;
+}
+
+.q3 {
+  padding-left: 3.5em;
+}
+
+.q4 {
+  text-align: right;
+  padding-right: 3.2em;
+}
+
+.qc {
+  text-align: center;
+}
+
+/* Drop cap */
+
+.drop-cap {
+  float: left;
+  font-size: 2.7em;
+  padding-top: 0.27em;
+  padding-right: 0.1em;
+}
+
+/* List */
+
+.li1 {
+  padding-left: 3.5em;
+  text-indent: -1.8em;
+}
+
+.li2 {
+  padding-left: 3.5em;
+  text-indent: -0.9em;
+}
+
+/* No break */
+
+.nb-wrapper .p {
+  display: inline;
+}
+
+.nb-wrapper {
+  text-align: justify;
+  text-indent: 1.8em;
+}
+
+/* Breaks */
+
+.b {
+  margin-top: 0.5em;
+}
+
+.hr {
+  border-bottom: solid 0.1em black;
+  margin: 1.15em 3.6em;
+}
+
+.hr-full {
+  border-bottom: solid 0.12em black;
+  margin-top: 1em;
+  margin-bottom: 1.5em;
+}
+
+.top-half {
+  margin-top: 0.5em;
+}
+
+.bottom-half {
+  margin-bottom: 0.5em;
+}
+
+.top-1 {
+  margin-top: 1.15em;
+}
+
+.bottom-1 {
+  margin-bottom: 1.15em;
+}
+
+.tbotb-top-1 {
+  margin-top: 1.15em;
+}
+
+.tbotb-top-2 {
+  margin-top: 2.3em;
+}
+
+.tbotb-top-3 {
+  margin-top: 3.45em;
+}
+
+/* Special */
+
+.tl, .qt {
+  font-style: italic;
+}
+
+.k {
+  font-weight: bold;
+}
+
+.it {
+  font-style: italic;
+  font-size: 0.8em;
+  line-height: 1.5em;
+  text-indent: 2.3em;
+}
+
+.sc,
+.nd {
+  font-variant: small-caps;
+}
+
+.wj {}
+
+.flush,
+.tbotb-flush {
+  text-indent: 0;
+}
+
+/* Hidden */
+
+.ver,
+.chap,
+.chap-number,
+.note,
+.s1,
+bcv{
+  display: none;
+}
